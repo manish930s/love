@@ -10,11 +10,11 @@ interface MapPoint {
 }
 
 const mapPoints: MapPoint[] = [
-  { id: 1, x: 20, y: 30, hint: "Where we first met...", title: "The Zesto Fest" },
+  { id: 1, x: 20, y: 30, hint: "Where we First Met...", title: "The Zesto Fest" },
   { id: 2, x: 45, y: 60, hint: "We Spend Time", title: "Talao Pali Thane" },
-  { id: 3, x: 70, y: 25, hint: "Remember this movement", title: "Marine drive" },
-  { id: 4, x: 35, y: 75, hint: "Our fun Day...", title: "the empty rake train 2:33" },
-  { id: 5, x: 80, y: 70, hint: "A special moment...", title: "The Lookout" },
+  { id: 3, x: 70, y: 25, hint: "Remember This Movement", title: "Marine drive" },
+  { id: 4, x: 35, y: 75, hint: "Our Fun Day...", title: "The Empty Rake Train 2:33" },
+  { id: 5, x: 80, y: 70, hint: "A Special Moment...", title: "11/02/2025" },
 ];
 
 export function TreasureMap() {
