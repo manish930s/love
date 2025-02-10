@@ -29,7 +29,7 @@ const clues: Clue[] = [
   {
     id: 2,
     icon: <Heart className="w-6 h-6" />,
-    title: "Love Letter",
+    title: "Letter",
     content: (
       <div className="prose max-w-none">
         <p className="text-gray-700 leading-relaxed">
